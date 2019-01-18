@@ -1,10 +1,5 @@
----
-title: Python MDSplus
-date: 2019-01-17 21:42:59
-tags: Python
----
-# Install MDSplus
 MDSplus is the uniform data format for fusion research, however installing MDSplus package for python on linux is rather a boring work. Many bugs occurred. First you should download the MDSplus package [1]. Here is some approach to install it. The python3 has been installed on the linux. First we follow the official instruction[2].
+# Install MDSplus
 
 ## Install with pip
 ```
