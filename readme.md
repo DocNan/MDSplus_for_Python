@@ -28,7 +28,7 @@ Sometimes, there maybe some bugs with python, you can try to install the latest 
 
 Here I recommand those who do not have root rights to install MDSplus by yum to install the MDSplus python package by the second method with the source file "MDSplus_mac_python3.zip" provided here! You can unzip this file and copy the MDSplus folder to the site-package folder on your python version. The second method should be able to work on python2, windows python, linux python and mac python as well. You can test the success of your installation by the command: 
 ```
-import MDSplus
+ipython import MDSplus
 ```
 
 
