@@ -25,6 +25,8 @@ linux_desktop$ cp -r MDSplus_mac ~/anaconda3/lib/python3.7/site-packages/MDSplus
 ```
 
 Sometimes, there maybe some bugs with python, you can try to install the latest python from Anaconda official site.
+If you met some bugs, you may try to use another MDSplus zip file "MDSplus_CentOS_python37.zip" that I uploaded on github.   
+This new MDSplus package contains 69 files. MDSplus package less than this number may cause errors.
 
 Here I recommand those who do not have root rights to install MDSplus by yum to install the MDSplus python package by the second method with the source file "MDSplus_mac_python3.zip" provided here! You can unzip this file and copy the MDSplus folder to the site-package folder on your python version. The second method should be able to work on python2, windows python, linux python and mac python as well. You can test the success of your installation by the command: 
 ```
